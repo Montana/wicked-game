@@ -1,5 +1,11 @@
 # wicked_game
 
+For context,
+
+https://www.youtube.com/watch?v=dlJew-Dw87I
+
+## Usage
+
 Find out what local radio stations that could be playing Chris Isaak's classic "Wicked Game". It will send push notifications when and if a radio station is playing it in Gainesville, Florida. 
 
 Getting started, get your Rdio API keys: 
