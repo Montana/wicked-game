@@ -20,8 +20,6 @@ An easy way to set up your vars is to create a file called env.sh and make it lo
 ```
 export RDIO_API_KEY=yourkey
 export RDIO_API_SECRET=yoursecret
-export ECHO_NEST_API_KEY=yourkey
 export APP_SECRET=secret
 ```
-
 Then just type ```source env.sh``` before you run your app locally, and it will essentially build it for you. Just make sure not to commit your env.sh file.
