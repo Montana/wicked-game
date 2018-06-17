@@ -1,6 +1,6 @@
 # wicked_game
 
-Local radio stations that could be playing Chris Isaak's classic "Wicked Game". It will send push notifications when and if a radio station is playing it in Gainesville, Florida. 
+Find out what local radio stations that could be playing Chris Isaak's classic "Wicked Game". It will send push notifications when and if a radio station is playing it in Gainesville, Florida. 
 
 Getting started, get your Rdio API keys: 
 
