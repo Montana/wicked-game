@@ -29,3 +29,9 @@ export RDIO_API_SECRET=yoursecret
 export APP_SECRET=secret
 ```
 Then just type ```source env.sh``` before you run your app locally, and it will essentially build it for you. Just make sure not to commit your env.sh file.
+
+## The 151 Flag 
+
+You can see when certain parts of Chris Isaak's - Wicked Game, so my favorite part is 1:51 -- so let's say I just want a push notification when the song hits 1:51 you'd run 
+
+```python3 gainesville.py -151```
