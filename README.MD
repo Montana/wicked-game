@@ -1,5 +1,7 @@
 # wicked_game
 
+![Screenshot](notification.png)
+
 For context,
 
 https://www.youtube.com/watch?v=dlJew-Dw87I
