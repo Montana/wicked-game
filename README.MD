@@ -34,7 +34,7 @@ Then just type ```source env.sh``` before you run your app locally, and it will 
 
 ## The 151 Flag 
 
-You can see when certain parts of Chris Isaak's - Wicked Game, so my favorite part is 1:51 -- so let's say I just want a push notification when the song hits 1:51 you'd run, this only works from radio stations in Gainesville, FL though -- so if you run the 151 flag expecting San Francisco, it wouldn't work. You can change this by editing the ```gainesville.py``` file.
+You can see when certain parts of Chris Isaak's - Wicked Game are playing, so my favorite part is 1:51 -- so let's say I just want a push notification when the song hits 1:51 you'd run, this only works from radio stations in Gainesville, FL though -- so if you run the 151 flag expecting San Francisco, it wouldn't work. You can change this by editing the ```gainesville.py``` file.
 
 ```
 python3 gainesville.py -151
